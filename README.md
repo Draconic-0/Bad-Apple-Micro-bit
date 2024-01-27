@@ -1,5 +1,4 @@
-To flash to the Micro:bit v2 you need to
-
+To flash this just
 install dependencies as seen here
 https://docs.rust-embedded.org/discovery/microbit/03-setup/linux.html
 
